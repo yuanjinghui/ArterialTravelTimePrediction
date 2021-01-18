@@ -1,1 +1,2 @@
 # ArterialTravelTimePrediction
+This repository presents a case study of travel time prediction on an arterial, State Road 436 in Seminole County, Florida. Three types of data sources were integrated to improve the prediction performance, including travel time from Bluetooth data, signal timing and vehicle actuation from ATSPM data, and weather data, as shown in Figure 11. Various types of deep learning algorithms, as well as conventional baseline models, were developed for different prediction horizons, i.e., 5, 10, 15, 20, 25, and 30 minutes.
